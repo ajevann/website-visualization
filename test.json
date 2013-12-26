@@ -1,0 +1,500 @@
+{
+    "name": "<html>",
+    "text": "",
+    "numofattributes": "0",
+    "numofchildren": "2",
+    "children": [
+        {
+            "name": "<head>",
+            "text": "",
+            "numofattributes": "0",
+            "numofchildren": "6",
+            "children": [
+                {
+                    "name": "<title>",
+                    "text": "ajevann by ajevann for ajevann",
+                    "numofattributes": "0",
+                    "numofchildren": "0"
+                },
+                {
+                    "name": "<meta>",
+                    "text": "",
+                    "numofattributes": "1",
+                    "numofchildren": "0",
+                    "attributes": [
+                        {
+                            "key": "charset",
+                            "value": "utf-8"
+                        }
+                    ]
+                },
+                {
+                    "name": "<meta>",
+                    "text": "",
+                    "numofattributes": "2",
+                    "numofchildren": "0",
+                    "attributes": [
+                        {
+                            "key": "http-equiv",
+                            "value": "X-UA-Compatible"
+                        },
+                        {
+                            "key": "content",
+                            "value": "chrome=1"
+                        }
+                    ]
+                },
+                {
+                    "name": "<meta>",
+                    "text": "",
+                    "numofattributes": "2",
+                    "numofchildren": "0",
+                    "attributes": [
+                        {
+                            "key": "name",
+                            "value": "viewport"
+                        },
+                        {
+                            "key": "content",
+                            "value": "width=device-width, initial-scale=1, user-scalable=no"
+                        }
+                    ]
+                },
+                {
+                    "name": "<link>",
+                    "text": "",
+                    "numofattributes": "2",
+                    "numofchildren": "0",
+                    "attributes": [
+                        {
+                            "key": "rel",
+                            "value": "stylesheet"
+                        },
+                        {
+                            "key": "href",
+                            "value": "stylesheets/styles.css"
+                        }
+                    ]
+                },
+                {
+                    "name": "<link>",
+                    "text": "",
+                    "numofattributes": "2",
+                    "numofchildren": "0",
+                    "attributes": [
+                        {
+                            "key": "rel",
+                            "value": "stylesheet"
+                        },
+                        {
+                            "key": "href",
+                            "value": "stylesheets/pygment_trac.css"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "<body>",
+            "text": "",
+            "numofattributes": "0",
+            "numofchildren": "2",
+            "children": [
+                {
+                    "name": "<div>",
+                    "text": "",
+                    "numofattributes": "1",
+                    "numofchildren": "3",
+                    "children": [
+                        {
+                            "name": "<header>",
+                            "text": "",
+                            "numofattributes": "0",
+                            "numofchildren": "7",
+                            "children": [
+                                {
+                                    "name": "<h1>",
+                                    "text": "Alex Vann",
+                                    "numofattributes": "0",
+                                    "numofchildren": "0"
+                                },
+                                {
+                                    "name": "<br>",
+                                    "text": "",
+                                    "numofattributes": "0",
+                                    "numofchildren": "0"
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "",
+                                    "numofattributes": "1",
+                                    "numofchildren": "1",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "View My GitHub Profile",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "https://github.com/ajevann"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attributes": [
+                                        {
+                                            "key": "class",
+                                            "value": "view"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "",
+                                    "numofattributes": "1",
+                                    "numofchildren": "1",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "About",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "about.html"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attributes": [
+                                        {
+                                            "key": "class",
+                                            "value": "view"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "",
+                                    "numofattributes": "1",
+                                    "numofchildren": "1",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Projects",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "#"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attributes": [
+                                        {
+                                            "key": "class",
+                                            "value": "view"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "",
+                                    "numofattributes": "1",
+                                    "numofchildren": "1",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Resume",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "resume.html"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attributes": [
+                                        {
+                                            "key": "class",
+                                            "value": "view"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "",
+                                    "numofattributes": "1",
+                                    "numofchildren": "1",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Blog",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "http://ajevann.tumblr.com/"
+                                                }
+                                            ]
+                                        }
+                                    ],
+                                    "attributes": [
+                                        {
+                                            "key": "class",
+                                            "value": "view"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "<section>",
+                            "text": "",
+                            "numofattributes": "0",
+                            "numofchildren": "7",
+                            "children": [
+                                {
+                                    "name": "<h3>",
+                                    "text": "Projects & Work",
+                                    "numofattributes": "0",
+                                    "numofchildren": "0"
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "A simple explanation of a python script I used to send my desktop's IP address to me by email.",
+                                    "numofattributes": "0",
+                                    "numofchildren": "2",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Emailing your IP Address",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "projects/emailip.html"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "<br>",
+                                            "text": "",
+                                            "numofattributes": "0",
+                                            "numofchildren": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "A simple (a rough draft) program designed to convert CSS files and information into a CSV file so that syntactically-correct mistakes can be spotted easily.",
+                                    "numofattributes": "0",
+                                    "numofchildren": "2",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "CSS Viewer",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "projects/CSSViewer.html"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "<br>",
+                                            "text": "",
+                                            "numofattributes": "0",
+                                            "numofchildren": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "A summary of a project designed to study a simulated problem (recording basketball scores quickly and efficiently), research the different aspects that create the issue, then create a proof of concept that can be quantitatively shown to be an improvement to the issue.",
+                                    "numofattributes": "0",
+                                    "numofchildren": "2",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Human Computer Interaction Project — Basketball Event Tracking Interface",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "projects/2011CS3724.html"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "<br>",
+                                            "text": "",
+                                            "numofattributes": "0",
+                                            "numofchildren": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "A general overview of my capstone group project, focused on designing and creating a proof of concept for a innovative visualization of information at the Virginia Tech Research Center — Arlington, Virginia.",
+                                    "numofattributes": "0",
+                                    "numofchildren": "2",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Design of Information Capstone Project — Interactive Hallway Display",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "projects/2011CS4634.html"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "<br>",
+                                            "text": "",
+                                            "numofattributes": "0",
+                                            "numofchildren": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "A collection of essays written for a college class based on how the global economy evolved and the politics and infrastructure that shaped it.",
+                                    "numofattributes": "0",
+                                    "numofchildren": "2",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Global Economics and World Politics, Writing Samples",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "projects/2012GEOG2064.html"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "name": "<br>",
+                                            "text": "",
+                                            "numofattributes": "0",
+                                            "numofchildren": "0"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "<p>",
+                                    "text": "",
+                                    "numofattributes": "0",
+                                    "numofchildren": "1",
+                                    "children": [
+                                        {
+                                            "name": "<a>",
+                                            "text": "Other miscellaneous things...",
+                                            "numofattributes": "1",
+                                            "numofchildren": "0",
+                                            "attributes": [
+                                                {
+                                                    "key": "href",
+                                                    "value": "other/index.html"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "<footer>",
+                            "text": "",
+                            "numofattributes": "0",
+                            "numofchildren": "1",
+                            "children": [
+                                {
+                                    "name": "<p>",
+                                    "text": "",
+                                    "numofattributes": "0",
+                                    "numofchildren": "1",
+                                    "children": [
+                                        {
+                                            "name": "<small>",
+                                            "text": "Hosted on GitHub Pages — Theme by Modified by",
+                                            "numofattributes": "0",
+                                            "numofchildren": "3",
+                                            "children": [
+                                                {
+                                                    "name": "<a>",
+                                                    "text": "orderedlist",
+                                                    "numofattributes": "1",
+                                                    "numofchildren": "0",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "href",
+                                                            "value": "https://github.com/orderedlist"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "<br>",
+                                                    "text": "",
+                                                    "numofattributes": "0",
+                                                    "numofchildren": "0"
+                                                },
+                                                {
+                                                    "name": "<a>",
+                                                    "text": "ajevann",
+                                                    "numofattributes": "1",
+                                                    "numofchildren": "0",
+                                                    "attributes": [
+                                                        {
+                                                            "key": "href",
+                                                            "value": "https://github.com/ajevann"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "attributes": [
+                        {
+                            "key": "class",
+                            "value": "wrapper"
+                        }
+                    ]
+                },
+                {
+                    "name": "<script>",
+                    "text": "",
+                    "numofattributes": "1",
+                    "numofchildren": "0",
+                    "attributes": [
+                        {
+                            "key": "src",
+                            "value": "javascripts/scale.fix.js"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

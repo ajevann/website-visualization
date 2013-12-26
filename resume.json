@@ -1,0 +1,32 @@
+{
+ "name": "resume",
+ "children": [
+    {
+     "name": "work",
+     "children": [
+      {"name": "wa", "size": 3938},
+      {"name": "wb", "size": 3812},
+      {"name": "wc", "size": 6714},
+      {"name": "wd", "size": 743}
+     ]
+    },
+    {
+     "name": "skills",
+     "children": [
+      {"name": "sa", "size": 3938},
+      {"name": "sb", "size": 3812},
+      {"name": "sc", "size": 6714},
+      {"name": "sd", "size": 743}
+     ]
+    },
+    {
+     "name": "projects",
+     "children": [
+      {"name": "pa", "size": 3938},
+      {"name": "pb", "size": 3812},
+      {"name": "pc", "size": 6714},
+      {"name": "pd", "size": 743}
+     ]
+    }
+   ]
+  }
